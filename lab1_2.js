@@ -37,3 +37,5 @@ var total = phonePrice + charger + tax - sale;
 
 alert("Total price = " + total);
 console.log("Total price = " + total);
+
+//add code
